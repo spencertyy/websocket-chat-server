@@ -1,4 +1,5 @@
 # WebSocket Chat Server (Java)
+<img width="2394" height="1348" alt="image" src="https://github.com/user-attachments/assets/5cb54d82-9c9f-4b2e-9fb6-bb2f58ef88da" />
 
 A multithreaded Java server that serves a browser UI and supports real-time chat over WebSocket.
 Implemented using `ServerSocket`, custom HTTP request parsing, and manual WebSocket handshake/frame handling.
