@@ -1,0 +1,35 @@
+body {
+    text-align: center;
+}
+h1{
+    font-family: "Arial Black";
+    font-size: 39px;
+}
+.chat-container {
+    margin: 10px auto;
+    width: 80%;
+    border: 1px solid #ccc;
+    padding: 10px;
+    display: flex;
+    height: 500px;
+}
+.chat-room {
+    width:30%;
+    border: 1px solid #ccc;
+}
+.chat-messages{
+    width: 70%;
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+#message-input {
+    width: 10%;
+    padding: 5px;
+    margin-top: 10px;
+}
+
+#send-button {
+    display: inline;
+    margin-top: 10px;
+}
